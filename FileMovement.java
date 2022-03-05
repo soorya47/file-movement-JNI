@@ -21,6 +21,6 @@ public class FileMovement {
 		if(process)
 			System.out.println("file movement success");
 		else
-			System.out.println("file movement success");
+			System.out.println("file movement failure");
 	   }
 	}

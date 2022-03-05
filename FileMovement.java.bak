@@ -15,7 +15,7 @@ public class FileMovement {
 		System.out.println("enter Path1");
 		String s1=sc.nextLine();
 		System.out.println("enter Path2");
-		String s1=sc.nextLine();
+		String s2=sc.nextLine();
 		FileMovement obj= new FileMovement();
 		boolean process= obj.fileMove(s1,s2);
 		if(process)
