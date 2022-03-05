@@ -10,3 +10,6 @@ javac -h . FileMovement.java
 x86_64-w64-mingw32-g++ -I"%JAVA_HOME%\include" -I"%JAVA_HOME%\include\win32" -shared -o fileMovement.dll FileMovement.cpp
 3)to run the class
 java FileMovement
+
+for running the class step 2 and 3 in enough
+
